@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm Looking for projects to collaborate
+I am an experienced IT specialist with four years of expertise in software and web application development, specializing in Laravel, Python (Django), and CodeIgniter. I have a proven track record of designing and implementing sophisticated IT systems, excelling in database administration, DevOps processes, and API integration. I am a quick learner and an adept problem-solver, always striving to innovate and find efficient solutions to technical challenges.
+
+**Technical Skills**
+Languages: PHP, Python, JavaScript, HTML5, CSS3, SQL
+Frameworks: Laravel, Django, CodeIgniter, JQuery, Ajax
+Databases: MySQL, PostgreSQL
+Version Control: Git, GitHub, Bitbucket
+APIs: REST, GraphQL
+Other Tools: AWS, Linux, Nginx, Apache
+Feel free to connect with me to discuss projects or explore collaborative opportunities!
 
 
 ## 🌐 Socials:
